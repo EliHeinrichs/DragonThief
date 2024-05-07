@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: d5cf8e7b35ba6bd42b625c103322fe66
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 10
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638426045059786861
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: small dragon red_Frame_0
+    originalName: 
+    pivot: {x: 0.47826087, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 36
+      width: 23
+      height: 20
+    spriteID: c098e60c5d923a840ac642151e3e361d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 36}
+  - name: small dragon red_Frame_1
+    originalName: 
+    pivot: {x: 0.47826087, y: -0.9130435}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 36
+      width: 23
+      height: 23
+    spriteID: a22ed1a6e02e9984988ee13f1980dc76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 36}
+  - name: small dragon red_Frame_2
+    originalName: 
+    pivot: {x: 0.47826087, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 68
+      width: 23
+      height: 20
+    spriteID: d6dcd59c752ad5e4c8aba64f2cf810ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 68}
+  - name: small dragon red_Frame_3
+    originalName: 
+    pivot: {x: 0.47826087, y: -1.2631578}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 68
+      width: 23
+      height: 19
+    spriteID: f9a9ea9a5695c1c4e8e85e6c513b86a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 68}
+  - name: small dragon red_Frame_4
+    originalName: 
+    pivot: {x: 0.47826087, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 203
+      y: 68
+      width: 23
+      height: 18
+    spriteID: bd1c9df54afa9ea429add5770dcb4060
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 203, y: 68}
+  - name: small dragon red_Frame_5
+    originalName: 
+    pivot: {x: 0.47826087, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 68
+      width: 23
+      height: 20
+    spriteID: 69631bb67651f204db54884b8e4549cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 68}
+  - name: small dragon red_Frame_6
+    originalName: 
+    pivot: {x: 0.4814815, y: -1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 42
+      y: 36
+      width: 27
+      height: 22
+    spriteID: 1589fadcd4e35944fba57d58ae4596cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 42, y: 36}
+  - name: small dragon red_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: -0.9166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 30
+      height: 24
+    spriteID: 103ba862684cb144f80462053a1b1ae6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: small dragon red_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.9166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 42
+      y: 4
+      width: 30
+      height: 24
+    spriteID: 548f36db665717c49b50ed9baa86e33e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 42, y: 4}
+  - name: small dragon red_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.9166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 4
+      width: 30
+      height: 24
+    spriteID: a99bbed38a0e8c74ab177a33427d8c93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 4}
+  - name: small dragon red_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -0.9166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 118
+      y: 4
+      width: 30
+      height: 24
+    spriteID: 483fdd32b2ca37b4bbee84aaabb61621
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 4}
+  - name: small dragon red_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.9166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 4
+      width: 30
+      height: 24
+    spriteID: e2ead3a3455361a4daf3cc2fda7c3751
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 4}
+  - name: small dragon red_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -0.9166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 4
+      width: 30
+      height: 24
+    spriteID: c129ff7fbd67ac94781797634ff534b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 4}
+  - name: small dragon red_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: -0.9166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 36
+      width: 30
+      height: 24
+    spriteID: c10d9563298ee1d468624be3d4642200
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 36}
+  - name: small dragon red_Frame_14
+    originalName: 
+    pivot: {x: 0.47826087, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 68
+      width: 23
+      height: 20
+    spriteID: 0e017ea197fc7e841a406f9fa94bc14a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 68}
+  - name: small dragon red_Frame_15
+    originalName: 
+    pivot: {x: 0.42307693, y: -0.8846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 68
+      width: 26
+      height: 26
+    spriteID: c7d3fb2a2b0c6c747ad1a875bcacc033
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 68}
+  - name: small dragon red_Frame_16
+    originalName: 
+    pivot: {x: 0.5185185, y: -1.0476191}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 36
+      width: 27
+      height: 21
+    spriteID: e287726dd5d40a14b8957f37bca76ab3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 36}
+  - name: small dragon red_Frame_17
+    originalName: 
+    pivot: {x: 0.516129, y: -1.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 36
+      width: 31
+      height: 18
+    spriteID: cf7399a49d7e7d4468246dc57c487634
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 36}
+  - name: small dragon red_Frame_18
+    originalName: 
+    pivot: {x: 0.5588235, y: -1.5333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 182
+      y: 36
+      width: 34
+      height: 15
+    spriteID: 5dfb0825955a21244b9772be3d2c4201
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 182, y: 36}
+  - name: small dragon red_Frame_19
+    originalName: 
+    pivot: {x: 0.6060606, y: -1.7692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 162
+      y: 68
+      width: 33
+      height: 13
+    spriteID: 009a38fce9006ce4f89ad39587e40cff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 68}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 4756781
+    name: small dragon red
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: small dragon red_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 21
+        y: 22
+        width: 23
+        height: 20
+      spriteId: c098e60c5d923a840ac642151e3e361d
+    - name: small dragon red_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 21
+        y: 21
+        width: 23
+        height: 23
+      spriteId: a22ed1a6e02e9984988ee13f1980dc76
+    - name: small dragon red_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 21
+        y: 22
+        width: 23
+        height: 20
+      spriteId: d6dcd59c752ad5e4c8aba64f2cf810ae
+    - name: small dragon red_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 21
+        y: 24
+        width: 23
+        height: 19
+      spriteId: f9a9ea9a5695c1c4e8e85e6c513b86a3
+    - name: small dragon red_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 21
+        y: 24
+        width: 23
+        height: 18
+      spriteId: bd1c9df54afa9ea429add5770dcb4060
+    - name: small dragon red_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 21
+        y: 22
+        width: 23
+        height: 20
+      spriteId: 69631bb67651f204db54884b8e4549cf
+    - name: small dragon red_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 19
+        y: 22
+        width: 27
+        height: 22
+      spriteId: 1589fadcd4e35944fba57d58ae4596cd
+    - name: small dragon red_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 17
+        y: 22
+        width: 30
+        height: 24
+      spriteId: 103ba862684cb144f80462053a1b1ae6
+    - name: small dragon red_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 17
+        y: 22
+        width: 30
+        height: 24
+      spriteId: 548f36db665717c49b50ed9baa86e33e
+    - name: small dragon red_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 17
+        y: 22
+        width: 30
+        height: 24
+      spriteId: a99bbed38a0e8c74ab177a33427d8c93
+    - name: small dragon red_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 17
+        y: 22
+        width: 30
+        height: 24
+      spriteId: 483fdd32b2ca37b4bbee84aaabb61621
+    - name: small dragon red_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 17
+        y: 22
+        width: 30
+        height: 24
+      spriteId: e2ead3a3455361a4daf3cc2fda7c3751
+    - name: small dragon red_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 17
+        y: 22
+        width: 30
+        height: 24
+      spriteId: c129ff7fbd67ac94781797634ff534b6
+    - name: small dragon red_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 17
+        y: 22
+        width: 30
+        height: 24
+      spriteId: c10d9563298ee1d468624be3d4642200
+    - name: small dragon red_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 21
+        y: 22
+        width: 23
+        height: 20
+      spriteId: 0e017ea197fc7e841a406f9fa94bc14a
+    - name: small dragon red_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 21
+        y: 23
+        width: 26
+        height: 26
+      spriteId: c7d3fb2a2b0c6c747ad1a875bcacc033
+    - name: small dragon red_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 18
+        y: 22
+        width: 27
+        height: 21
+      spriteId: e287726dd5d40a14b8957f37bca76ab3
+    - name: small dragon red_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 16
+        y: 23
+        width: 31
+        height: 18
+      spriteId: cf7399a49d7e7d4468246dc57c487634
+    - name: small dragon red_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 13
+        y: 23
+        width: 34
+        height: 15
+      spriteId: 5dfb0825955a21244b9772be3d2c4201
+    - name: small dragon red_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 12
+        y: 23
+        width: 33
+        height: 13
+      spriteId: 009a38fce9006ce4f89ad39587e40cff
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 64}
